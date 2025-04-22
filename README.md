@@ -13,8 +13,3 @@ The main authors or maintainers of the project
 A link to the license
 Any additional acknowledgements”
 
-Excerpt From
-GitHub For Dummies
-Sarah Guthals
-https://books.apple.com/us/book/github-for-dummies/id6445543026
-This material may be protected by copyright.
